@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Simple Webpage</h1>
+        <h1></h1>
     </header>
 
     <section id="main-content">
