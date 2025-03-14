@@ -17,7 +17,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 My Simple Webpage</p>
+        <p>&copy; 2025 My Simple </p>
     </footer>
 
     <script src="script.js"></script>
