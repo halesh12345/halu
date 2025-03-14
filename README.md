@@ -18,7 +18,7 @@
 
     <footer>
         <p>&copy; 2025 My Simple </p>
-    </footer>
+    </>
 
     <script src="script.js"></script>
 </body>
