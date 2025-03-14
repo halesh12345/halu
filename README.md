@@ -13,7 +13,7 @@
 
     <section id="main-content">
         <p>This is a simple webpage created with HTML, CSS, and JavaScript.</p>
-        <button id="alertButton">Click Me!</button>
+        <button id="">Click Me!</button>
     </section>
 
     <footer>
